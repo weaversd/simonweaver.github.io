@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-02-03
 venue: 'Analytical Methods'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2021/ay/d0ay02256j'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'YWeaver, SD., Whelan, RJ. (2021). &quot;Characterization of DNA aptamer–protein binding using fluorescence anisotropy assays in lowvolume, high-efficiency plates.&quot; <i>Analytical Methods</i>. DOI: 10.1039/D0AY02256J.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
