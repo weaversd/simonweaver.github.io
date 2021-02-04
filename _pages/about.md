@@ -12,11 +12,11 @@ I'm a graduate student at the [University of Notre Dame](https://www.nd.edu/) in
 
 Prior to Notre Dame, I worked as an associate scientist at Pharmaceutical Product Development (PPD) in Biopharmaceutical Method Development & Validation. 
 
-Projects
+Research
 ======
-# Proteomics of MUC16
+## Proteomics of MUC16
 
-# Aptamer Characterization
+## Aptamer Characterization
 
 Photos and Figures
 ======
