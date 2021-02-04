@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Organic Chemistry Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate laboratory TA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Goshen College, Chemistry"
+date: 2016-2017
+location: "Goshen, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted in the laboratory sessions for Organic Chemistry I and II. Set up labs, answered quesitons during experiments, graded laboratory reports and notebooks.
