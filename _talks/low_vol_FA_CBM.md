@@ -2,7 +2,7 @@
 title: "Low-Volume Fluorescence Anisotropy Will Allow Efficient Characterization of Aptamer Binding to Deamidation Products"
 collection: talks
 type: "Presentation"
-permalink: /talks/low_vol_FA_CBM.md
+permalink: /talks/low_vol_FA_CBM
 venue: "Center for Bioanalytical Metrology Industry Industry Advisory Board Meeting"
 date: 2020-12-02
 location: "Virtual"
