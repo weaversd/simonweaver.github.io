@@ -3,7 +3,7 @@ title: "Low-Volume Fluorescence Anisotropy Will Allow Efficient Characterization
 collection: talks
 type: "Presentation"
 permalink: /talks/low_vol_FA_CBM
-venue: "Center for Bioanalytical Metrology Industry Industry Advisory Board Meeting"
+venue: "Center for Bioanalytical Metrology Industry Advisory Board Meeting"
 date: 2020-12-02
 location: "Virtual"
 ---
