@@ -1,7 +1,7 @@
 ---
 title: "Characterization of DNA aptamer–protein binding using fluorescence anisotropy assays in low volume, high-efficiency plates"
 collection: publications
-permalink: /publications/2021-02-03-Low-vol-FA-aptamers.md
+permalink: /publications/2021-02-03-Low-vol-FA-aptamers
 excerpt: ''
 date: 2021-02-03
 venue: 'Analytical Methods'
