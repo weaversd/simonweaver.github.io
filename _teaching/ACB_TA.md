@@ -2,7 +2,7 @@
 title: "Advanced Cell Biology Teaching Assistant"
 collection: teaching
 type: "Undergraduate laboratory TA"
-permalink: /teaching/ACB_TA.md
+permalink: /teaching/ACB_TA
 venue: "Goshen College, Chemistry"
 date: 2018-01-09
 location: "Goshen, USA"
