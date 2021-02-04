@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simon D. Weaver"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Simon D. Weaver"
 description              : &description "Graduate Student in the Integrated Biomedical Sciences program at the University of Notre Dame"
