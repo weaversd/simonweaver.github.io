@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Biochemistry , Goshen College, 2014
+* B.A. in Biochemistry , Goshen College, 2018
 * Ph.D in Integrated Biomedical Sciences (Genomics and Proteomics), University of Notre Dame, 2025 (expected)
 
 Work experience
