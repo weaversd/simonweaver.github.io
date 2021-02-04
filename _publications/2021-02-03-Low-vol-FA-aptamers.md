@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Weaver, SD., Whelan, RJ. (2021). "Characterization of DNA aptamer–protein binding using fluorescence anisotropy assays in lowvolume, high-efficiency plates" <i>Analytical Methods</i>. DOI: 10.1039/D0AY02256J.
