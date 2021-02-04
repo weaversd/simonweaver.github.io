@@ -2,7 +2,7 @@
 title: "Biochemistry Teaching Assistant"
 collection: teaching
 type: "Undergratuate laboratory TA"
-permalink: /teaching/Biochemistry_TA.md
+permalink: /teaching/Biochemistry_TA
 venue: "Goshen College, Chemistry"
 date: 2017-08-22
 location: "Goshen, USA"
