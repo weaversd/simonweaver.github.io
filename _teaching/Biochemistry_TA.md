@@ -1,7 +1,7 @@
 ---
-title: "Biochemistry TA"
+title: "Biochemistry Teaching Assistant"
 collection: teaching
-type: "undergratuate TA"
+type: "Undergratuate laboratory TA"
 permalink: /teaching/Biochemistry_TA.md
 venue: "Goshen College, Chemistry"
 date: 2017-08-22
