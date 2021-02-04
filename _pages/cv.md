@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Biochemistry , Goshen College, 2014
+* Ph.D in Integrated Biomedical Sciences (Genomics and Proteomics), University of Notre Dame, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Associate Scientist, Pharmaceutical Product Development (PPD), Madison, WI
+  * Biopharmaceutical method development and validation in a GMP laboratory environment
+  * Experience with CE and HPLC
+  
+* 2017-2018: Research Assistant, Goshen College, Goshen, IN
+  * Genomic editing of *C. elgegans* with CRISPR/Cas9 in the lab of Dr. Kristopher Schmidt
+  * Tagging *unc-53* with GFP for spatio-temporal expression analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Intern of Integrated Solutions and Engineering, Promega Corportation, Madison, WI
+  * Integration of nucleic acid chemistries into liquid handling robots
+  * Experience with DNA and RNA purificaion and analysis, along with debugging software
+  
+* Summer 2016: Laboratory Technician, Centro Medico Pedro P. Diaz, Arequipa, Peru
+  * Laboratory analysis of patient blood and urine samples
+  * Basic phlebotomy training
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical method development: CE and HPLC
+* Data processing and wrangling with R and Python
+* Scientific writing
 
 Publications
 ======
@@ -54,6 +57,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors
 ======
-* Currently signed in to 43 different slack teams
+* Employee of the Month (PPD) - May 2019
+* Presidential Leadership Award Winner (Goshen College, top academic scholarship) - 2010
+
+Test Scores
+======
+GRE (2019) - Verbal: 163 (93rd Percentile), Quantitativ: 170 (96th Percentile), Analytical: 5.5 (98th Percentile)
+
