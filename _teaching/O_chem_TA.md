@@ -2,7 +2,7 @@
 title: "Organic Chemistry Teaching Assistant"
 collection: teaching
 type: "Undergraduate laboratory TA"
-permalink: /teaching/O_chem_TA.md
+permalink: /teaching/O_chem_TA
 venue: "Goshen College, Chemistry"
 date: 2016-08-22
 location: "Goshen, USA"
