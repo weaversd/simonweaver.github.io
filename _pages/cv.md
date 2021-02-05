@@ -64,5 +64,5 @@ Honors
 
 Test Scores
 ======
-GRE (2019) - Verbal: 163 (93rd Percentile), Quantitativ: 170 (96th Percentile), Analytical: 5.5 (98th Percentile)
+GRE (2019) - Verbal: 163 (93rd Percentile), Quantitative: 170 (96th Percentile), Analytical: 5.5 (98th Percentile)
 
