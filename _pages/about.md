@@ -26,4 +26,4 @@ Photos and Figures
 ======
 ![Home built CE-LIF instrument](/images/)
 ![R Function to integrate CE-LIF traces](/images/Example_integration.bmp)
-![Increased glycopeptide coverage of MUC16](/images/Glyco_vs_non_glyco_peptides_fitz_MUC16.tiff)
+![Increased glycopeptide coverage of MUC16](/images/Glyco_vs_non_glyco_peptides_fitz_MUC16_2.jpg)
