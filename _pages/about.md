@@ -24,3 +24,4 @@ Aptamers are small, functional oligonucleotides that can be used similarly to an
 
 Photos and Figures
 ======
+![test imgage](/images/bio-photo.jpg)
