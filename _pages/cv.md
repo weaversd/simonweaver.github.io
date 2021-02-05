@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* 2020-present: Graduate Research Assistant, Whelan Lab, University of Notre Dame, Notre Dame, IN
+  * MUC16 proteomics research, aptamer binding research with CE and FA
+  * Bioinformatics data analysis
+  
 * 2018-2020: Associate Scientist, Pharmaceutical Product Development (PPD), Madison, WI
   * Biopharmaceutical method development and validation in a GMP laboratory environment
   * Experience with CE and HPLC
