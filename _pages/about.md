@@ -24,4 +24,6 @@ Aptamers are small, functional oligonucleotides that can be used similarly to an
 
 Photos and Figures
 ======
-![test imgage](/images/bio-photo.jpg)
+![Home built CE-LIF instrument](/images/)
+![R Function to integrate CE-LIF traces](/images/)
+![Increased glycopeptide coverage of MUC16](/images/)
