@@ -24,12 +24,17 @@ Aptamers are small, functional oligonucleotides that can be used similarly to an
 
 Photos and Figures
 ======
-![HBCE](/images/unnamed_2.jpg)
+![HBCE](/images/unnamed_2.jpg "this is the title")
 Home built capillary electrophoresis laser induced fluorescence (CE-LIF) instrument.
 
+------
 
 ![Example_integration](/images/Example_integration.bmp)
 R Script to plot and integrate the raw data collected by the Avalanch Photodiode (APD) detector from the home built CE-LIF system.
-  
+
+------
+
 ![glyco_peps](/images/Glyco_vs_non_glyco_peptides_fitz_MUC16_2.jpg)
 Identified MUC16 peptides and glycopeptides mapped to the full protein sequence.
+
+------
