@@ -26,8 +26,11 @@ Photos and Figures
 ======
 ![Home built CE-LIF instrument](/images/)
 
-*R* Script to plot and integrate the raw data collected by the Avalanch Photodiode (APD) detector from the home built CE-LIF system:
-![R Function to integrate CE-LIF traces](/images/Example_integration.bmp)
 
-Identified MUC16 peptides and glycopeptides mapped to the full protein sequence:
-![Increased glycopeptide coverage of MUC16](/images/Glyco_vs_non_glyco_peptides_fitz_MUC16_2.jpg)
+<img src="/images/Example_integration.bmp" width=100% align=left>  
+*R* Script to plot and integrate the raw data collected by the Avalanch Photodiode (APD) detector from the home built CE-LIF system.
+  
+
+<img src="/images/Glyco_vs_non_glyco_peptides_fitz_MUC16_2.jpg" width=100% align=right title="This is the title">
+Identified MUC16 peptides and glycopeptides mapped to the full protein sequence.
+
