@@ -25,7 +25,7 @@ Aptamers are small, functional oligonucleotides that can be used similarly to an
 Photos and Figures
 ======
 ![HBCE](/images/unnamed_2.jpg "this is the title")
-Home built capillary electrophoresis laser induced fluorescence (CE-LIF) instrument.
+Home built Capillary Electrophoresis Laser-Induced Fluorescence (CE-LIF) instrument.
 
 ------
 
