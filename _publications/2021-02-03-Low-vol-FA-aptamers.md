@@ -11,3 +11,5 @@ citation: 'Weaver, SD., Whelan, RJ. (2021). &quot;Characterization of DNA aptame
 
 [Download paper here](http://weaversd.github.io/files/
 2021_Weaver_Characterization of DNA aptamer-protein binding using fluorescence anisotropy in low-volume high-efficiency plates_Analytical Methods.pdf)
+
+<img src="/images/AY013010_ifc_publicity1024_1.jpg" width="250">
