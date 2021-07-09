@@ -63,6 +63,7 @@ Teaching
   
 Honors
 ======
+* University of Notre Dame Chemistry, Biochemistry, and Biology Interface (CBBI) Fellowship - 2021-2022
 * Employee of the Month (PPD) - May 2019
 * Presidential Leadership Award Winner (Goshen College, top academic scholarship) - 2014
 
