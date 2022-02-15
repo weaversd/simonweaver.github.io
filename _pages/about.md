@@ -24,6 +24,11 @@ Aptamers are small, functional oligonucleotides that can be used similarly to an
 
 Photos and Figures
 ======
+![MUC16_peps](/images/CCM_C_MUC16_coverage_notitle.png)
+Increased MUC16 peptide coverage using CE Fractionation. Identified peptides shown with vertical colored lines.
+
+------
+
 ![HBCE](/images/unnamed_2.jpg "this is the title")
 Home built Capillary Electrophoresis Laser-Induced Fluorescence (CE-LIF) instrument.
 
@@ -34,7 +39,3 @@ R Script to plot and integrate the raw data collected by the Avalanch Photodiode
 
 ------
 
-![glyco_peps](/images/Glyco_vs_non_glyco_peptides_fitz_MUC16_2.jpg)
-Identified MUC16 peptides and glycopeptides mapped to the full protein sequence.
-
-------
