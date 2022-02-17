@@ -6,7 +6,6 @@ excerpt: ''
 date: 2022-02-16
 venue: 'Analytical Methods'
 paperurl: ''
-citation: 'Weaver, SD., Schuster-Little, N. Whelan, RJ. (2022). &quot;Preparative capillary electrophoresis (CE) fractionation of protein digests improves protein and peptide identification in bottom-up proteomics&quot; <i>Analytical Methods</i>. IN PRESS'
+citation: 'Weaver, SD., Schuster-Little, N. Whelan, RJ. (2022). &quot;Preparative capillary electrophoresis (CE) fractionation of protein digests improves protein and peptide identification in bottom-up proteomics&quot; <i>Analytical Methods</i>. https://doi.org/10.1039/D1AY02145A'
 ---
 
-<a href="http://weaversd.github.io/files/2021_Weaver_Characterization of DNA aptamer-protein binding using fluorescence anisotropy in low-volume high-efficiency plates_Analytical Methods.pdf">Download Paper Here - Coming Soon</a>
