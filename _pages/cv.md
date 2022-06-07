@@ -64,7 +64,7 @@ Teaching
 Honors
 ======
 * Harper Cancer Research Inst. 10th annual Cancer Research Day Poster Contest 1st Place Award - March 2022
-* University of Notre Dame Chemistry, Biochemistry, and Biology Interface (CBBI) Fellowship - 2021-2022
+* University of Notre Dame Chemistry, Biochemistry, and Biology Interface (CBBI) Fellowship - 2021-2023
 * Employee of the Month (PPD) - May 2019
 * Presidential Leadership Award Winner (Goshen College, top academic scholarship) - 2014
 
