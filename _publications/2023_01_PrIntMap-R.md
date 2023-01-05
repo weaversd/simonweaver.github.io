@@ -1,5 +1,5 @@
 ---
-title: "PrIntMap-R: an online app for intra-protein intensity and peptide visualization in bottom-up proteomics"
+title: "PrIntMap-R: an online application for intra-protein intensity and peptide visualization in bottom-up proteomics"
 collection: publications
 permalink: /publications/2023_01_PrIntMap-R
 excerpt: ''
