@@ -40,7 +40,7 @@ Work experience
 Skills
 ======
 * Analytical method development: CE and HPLC
-* Data processing and wrangling with R and Python
+* Data processing, analysis, and visualization with R and Python
 * Scientific writing
 
 Publications
@@ -61,8 +61,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Honors
+Honors and Postitions
 ======
+* President, IBMS Grad Student Organization - 2023
+* Berry Family Foundation Fellowship, Berthiaume Institute for Precision Health - 2023-2024
+* Lucy Family Institute for Data and Society Graduate Scholar - 2023-2025
+* UND Center for Research Computing Graduate Award for Computational Sciences and Visualization - 2023
+* CBBI Symposium 1st Place Oral Presentation Contest Winner - May 2023
 * Harper Cancer Research Inst. 10th annual Cancer Research Day Poster Contest 1st Place Award - March 2022
 * University of Notre Dame Chemistry, Biochemistry, and Biology Interface (CBBI) Fellowship - 2021-2023
 * Employee of the Month (PPD) - May 2019
