@@ -16,9 +16,10 @@ Education
 
 Work experience
 ======
-* 2020-present: Graduate Research Assistant, Whelan Lab, University of Notre Dame, Notre Dame, IN
+* 2020-present: Graduate Research Assistant, Champion and Whelan Labs, University of Notre Dame, Notre Dame, IN
+  * Small protein discovery in Mycobacteria with bottom-up proteomics
   * MUC16 proteomics research, aptamer binding research with CE and FA
-  * Bioinformatics data analysis
+  * Data analysis and informatics tool development
   
 * 2018-2020: Associate Scientist, Pharmaceutical Product Development (PPD), Madison, WI
   * Biopharmaceutical method development and validation in a GMP laboratory environment
